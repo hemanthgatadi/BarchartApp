@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BarChartAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 318}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BarChartAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 1001}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 625}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BarChartApp */ = {
+		activeExec = 0;
+		executables = (
+			80A54E0F13DD2EA5003F64D2 /* BarChartApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BarChartAppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 318}}";
+			sepNavSelRange = "{268, 19}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BarChartAppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 2704}}";
+			sepNavSelRange = "{5233, 0}";
+			sepNavVisRange = "{691, 582}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 80A54E0F13DD2EA5003F64D2 /* BarChartApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BarChartApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BarChartApp */,
+		);
+		codeSenseManager = 80A54E2013DD2EC2003F64D2 /* Code sense */;
+		executables = (
+			80A54E0F13DD2EA5003F64D2 /* BarChartApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					782,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					742,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333278502;
+			PBXWorkspaceStateSaveDate = 333278502;
+		};
+		perUserProjectItems = {
+			80A54EA913DD4A1E003F64D2 /* PBXTextBookmark */ = 80A54EA913DD4A1E003F64D2 /* PBXTextBookmark */;
+			80A54FC913DD8415003F64D2 /* PBXTextBookmark */ = 80A54FC913DD8415003F64D2 /* PBXTextBookmark */;
+			80A54FCA13DD8415003F64D2 /* PBXTextBookmark */ = 80A54FCA13DD8415003F64D2 /* PBXTextBookmark */;
+			80A54FCB13DD8415003F64D2 /* PBXTextBookmark */ = 80A54FCB13DD8415003F64D2 /* PBXTextBookmark */;
+			80A54FCC13DD8415003F64D2 /* PBXTextBookmark */ = 80A54FCC13DD8415003F64D2 /* PBXTextBookmark */;
+			80A54FCD13DD8415003F64D2 /* PBXTextBookmark */ = 80A54FCD13DD8415003F64D2 /* PBXTextBookmark */;
+			80A54FCE13DD8415003F64D2 /* PBXTextBookmark */ = 80A54FCE13DD8415003F64D2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 80A54E1F13DD2EC2003F64D2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BarChartApp_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 318}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	80A54E0F13DD2EA5003F64D2 /* BarChartApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BarChartApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	80A54E1F13DD2EC2003F64D2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	80A54E2013DD2EC2003F64D2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	80A54E7413DD3F90003F64D2 /* CoreFoundation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CoreFoundation.h;
+		path = "/var/folders/h5/h5pnW82gE+C8qVtjKwQDSnFxQsU/-Caches-/com.apple.Xcode.880636808/CompositeSDKs/iphonesimulator-iPhoneSimulator4.3-dhkgkqivfppwrgejnobaqfanmmoj/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h";
+		sourceTree = "<absolute>";
+	};
+	80A54EA913DD4A1E003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80A54E7413DD3F90003F64D2 /* CoreFoundation.h */;
+		name = "CoreFoundation.h: 12";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	80A54FC913DD8415003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BarChartAppAppDelegate.h */;
+		name = "BarChartAppAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	80A54FCA13DD8415003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BarChartAppAppDelegate.m */;
+		name = "BarChartAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 0;
+	};
+	80A54FCB13DD8415003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BarChartAppViewController.m */;
+		name = "BarChartAppViewController.m: 142";
+		rLen = 0;
+		rLoc = 5147;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	80A54FCC13DD8415003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* BarChartApp_Prefix.pch */;
+		name = "BarChartApp_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	80A54FCD13DD8415003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BarChartAppViewController.h */;
+		name = "BarChartAppViewController.h: 10";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	80A54FCE13DD8415003F64D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BarChartAppViewController.h */;
+		name = "BarChartAppViewController.h: 12";
+		rLen = 19;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+}
